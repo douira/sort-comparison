@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  margin: 0px;
+  padding: 10px;
+  text-align: center;
+}
+
+#results td, #results th {
+  border: solid lightgrey 1px;
+}
+
+#results th {
+  padding: 10px;
+}
+
+#results {
+  border-collapse: collapse;
+}
+
+.result {
+  width: 80px;
+  height: 40px;
+}
