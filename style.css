@@ -18,6 +18,21 @@ body {
 }
 
 .result {
-  width: 80px;
+  width: 120px;
+  height: 70px;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+#spinner {
+  width: 40px;
   height: 40px;
+}
+
+.green {
+  background-color: #b3d2ff;
+}
+
+.blue {
+  background-color: #c5ffb3;
 }
